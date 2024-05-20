@@ -1,3 +1,4 @@
+import PropTypes from 'prop-types';
 import sprite from "../../svg/sprite.svg"
 import { CardWrapper, CardContainer, Icon, Title, TaskList, TaskItem, ViewMoreLink, TaskText} from "./Card.styled";
 
@@ -28,5 +29,11 @@ const Card = ({ svg, tasks, category, color }) => {
   )
 };
 
+Card.propTypes = {
+  svg: PropTypes.string.isRequired,
+  tasks: PropTypes.arrayOf(PropTypes.string).isRequired,
+  category: PropTypes.string.isRequired,
+  color: PropTypes.string.isRequired,
+};
 
 export default Card
