@@ -6,11 +6,11 @@ export const Main = styled.main`
   padding: 15px 16px 15px 16px;
 
   @media (min-width: 768px) {
-    padding: 0px 24px 0px 24px;
+    padding: 20px 24px 20px 24px;
   }
 
   @media (min-width: 1320px) {
-    padding: 0px 30px 0px 30px;
+    padding: 25px 30px 25px 30px;
   }
 `;
 
