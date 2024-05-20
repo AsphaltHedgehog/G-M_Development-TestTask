@@ -1,5 +1,6 @@
-import Card from './components/Card';
+import Card from './components/card/Card'
 import cards from './data/data.json'
+import { Main, CardGrid } from "./App.styled";
 
 const App = () => {
 
@@ -10,16 +11,16 @@ const App = () => {
   };
   
 	return (
-    <main>
-      <ul>
+    <Main>
+      <CardGrid>
         {cards.map((card, i) => {
           const color = getColorByIndex(i)
           return(
             <Card key={card.category} category={card.category} svg={card.svg} tasks={card.tasks} color={color} />
           )
         })}
-      </ul>
-		</main>
+      </CardGrid>
+		</Main>
 	);
 }
 
