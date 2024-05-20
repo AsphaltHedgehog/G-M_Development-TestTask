@@ -8,7 +8,7 @@
         "Install / Replace a Sink",
         "Repair Under Sink Plumbing"
       ],
-      "svg": "plumbing"
+      "svg": "icon-plumbing"
     },
     {
       "category": "Drywall & painting",
@@ -19,7 +19,7 @@
         "Paint or Stain A Fence",
         "Paint a Cabinet Door"
       ],
-      "svg": "painting"
+      "svg": "icon-painting"
     },
     {
       "category": "Furniture assembly",
@@ -30,7 +30,7 @@
         "Assemble Pet Furniture",
         "Assemble a Bar Cabinet"
       ],
-      "svg": "assembly"
+      "svg": "icon-assembly"
     },
     {
       "category": "Electrical",
@@ -40,7 +40,7 @@
         "Upgrade to a Video Doorbell",
         "Install / Replace an Bathroom Exhaust Fan"
       ],
-      "svg": "electrical"
+      "svg": "icon-electrical"
     },
     {
       "category": "Doors & windows",
@@ -50,7 +50,7 @@
         "Install / Replace a Window Screen",
         "Repair a Door Frame"
       ],
-      "svg": "doors"
+      "svg": "icon-doors"
     },
     {
       "category": "Hanging & mounting",
@@ -60,7 +60,7 @@
         "Mount and Hang a Projector Screen",
         "Hang a Bathroom Fixture"
       ],
-      "svg": "hanging"
+      "svg": "icon-hanging"
     },
     {
       "category": "Appliance installation",
@@ -69,7 +69,7 @@
         "Replace an Existing Microwave",
         "Replace an Existing Oven"
       ],
-      "svg": "appliance"
+      "svg": "icon-appliance"
     },
     {
       "category": "Smart home",
@@ -79,7 +79,7 @@
         "Mount a Baby Monitor Camera on the Wall",
         "Install an Under Sink Water Filtration System"
       ],
-      "svg": "home"
+      "svg": "icon-home"
     },
     {
       "category": "Outdoor",
@@ -89,6 +89,6 @@
         "Install Outdoor Decorative Exterior Window Shutters",
         "Install a Storm Door"
       ],
-      "svg": "outdoor"
+      "svg": "icon-outdoor"
     }
   ]
