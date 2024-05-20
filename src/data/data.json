@@ -1,0 +1,94 @@
+[
+    {
+      "category": "Plumbing",
+      "tasks": [
+        "Install / Replace a Toilet",
+        "Install / Replace a Faucet",
+        "Fix a Leaking",
+        "Install / Replace a Sink",
+        "Repair Under Sink Plumbing"
+      ],
+      "svg": "plumbing"
+    },
+    {
+      "category": "Drywall & painting",
+      "tasks": [
+        "Install Drywall",
+        "Patch and Paint Drywall",
+        "Paint a Wall / Trim",
+        "Paint or Stain A Fence",
+        "Paint a Cabinet Door"
+      ],
+      "svg": "painting"
+    },
+    {
+      "category": "Furniture assembly",
+      "tasks": [
+        "Assemble Fitness Equipment",
+        "Assemble – Custom Request",
+        "Assemble a TV Stand",
+        "Assemble Pet Furniture",
+        "Assemble a Bar Cabinet"
+      ],
+      "svg": "assembly"
+    },
+    {
+      "category": "Electrical",
+      "tasks": [
+        "Install / Replace a Ceiling Fan",
+        "Replace Switch & Outlet Faceplate",
+        "Upgrade to a Video Doorbell",
+        "Install / Replace an Bathroom Exhaust Fan"
+      ],
+      "svg": "electrical"
+    },
+    {
+      "category": "Doors & windows",
+      "tasks": [
+        "Install / Replace New Door",
+        "Install / Replace a Screen Door",
+        "Install / Replace a Window Screen",
+        "Repair a Door Frame"
+      ],
+      "svg": "doors"
+    },
+    {
+      "category": "Hanging & mounting",
+      "tasks": [
+        "Mount a TV",
+        "Remove a TV Mount from Wall",
+        "Mount and Hang a Projector Screen",
+        "Hang a Bathroom Fixture"
+      ],
+      "svg": "hanging"
+    },
+    {
+      "category": "Appliance installation",
+      "tasks": [
+        "Replace an Existing Dishwasher",
+        "Replace an Existing Microwave",
+        "Replace an Existing Oven"
+      ],
+      "svg": "appliance"
+    },
+    {
+      "category": "Smart home",
+      "tasks": [
+        "Install a Smart Lock",
+        "Install a Smart Home Security Camera",
+        "Mount a Baby Monitor Camera on the Wall",
+        "Install an Under Sink Water Filtration System"
+      ],
+      "svg": "home"
+    },
+    {
+      "category": "Outdoor",
+      "tasks": [
+        "Assemble an Outdoor Trampoline",
+        "Hang a Garage Shelving Unit",
+        "Install Outdoor Decorative Exterior Window Shutters",
+        "Install a Storm Door"
+      ],
+      "svg": "outdoor"
+    }
+  ]
